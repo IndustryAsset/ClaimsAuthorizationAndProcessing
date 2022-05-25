@@ -8,7 +8,7 @@
   <spring.version>4.3.5.RELEASE</spring.version>
   
 <!--   <spring.security.version> 4.2.2.RELEASE</spring.security.version> -->
-  <spring.security.version> 3.2.7.RELEASE</spring.security.version>
+  <spring.security.version>5.5.7</spring.security.version>
   <hibernate.version>4.3.11.Final</hibernate.version>
   </properties>
 <!-- <build>
