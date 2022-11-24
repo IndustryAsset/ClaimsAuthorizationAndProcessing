@@ -9,7 +9,7 @@
   
 <!--   <spring.security.version> 4.2.2.RELEASE</spring.security.version> -->
   <spring.security.version> 3.2.7.RELEASE</spring.security.version>
-  <hibernate.version>4.3.11.Final</hibernate.version>
+  <hibernate.version>5.3.20.Final</hibernate.version>
   </properties>
 <!-- <build>
 <plugins>
